@@ -1,5 +1,14 @@
 # SQL_Leetcode
 
+
+<details><summary>Basics</summary>
+<p>
+
+
+
+</p>
+</details>
+
  **#** | **Title** | **Difficulty** | **Solution** |
 |---|---|---|---|
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | [Soln.](../master/Questions_by_ID/175_Combine_Two_Tables.sql) |
