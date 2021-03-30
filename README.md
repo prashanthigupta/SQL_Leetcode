@@ -1,8 +1,5 @@
 # SQL_Leetcode
 
-<details><summary>LeetCode by Question ID</summary>
-<p>
-
  **#** | **Title** | **Difficulty** | **Solution**  |**Company** | **Notes** |
 |  --- |  ---      |  ---           |  ---         |  ---        |  ---      |
 | 175  | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | [Soln.](../master/Questions_by_ID/175_Combine_Two_Tables.sql) | Amazon| ot|
@@ -110,11 +107,6 @@
 | 1384 | [Total Sales Amount by Year](https://leetcode.com/problems/total-sales-amount-by-year/) | Hard | [Soln.](../master/Questions_by_ID/1384_Total_Sales_Amount_by_Year.sql) |Amazon| window|
 | 1393 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | Medium | [Soln.](../master/Questions_by_ID/1393_Capital_Gain_Loss.sql) |Amazon| window|
 | 1398 | [Customers Who Bought Products A and B but Not C](https://leetcode.com/problems/customers-who-bought-products-a-and-b-but-not-c/) | Medium | [Soln.](../master/Questions_by_ID/1398_Customers_Who_Bought_Products_A_and_B_but_Not_C.sql) |Amazon| window|
-
-
-</p>
-</details>
-
 
 
 
