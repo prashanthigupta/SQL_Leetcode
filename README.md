@@ -5,7 +5,9 @@
 
  **#** | **Title** | **Difficulty** | **Solution**  |**Company** | **Notes** |
 |  --- |  ---      |  ---           |  ---         |  ---        |  ---      |
-| 175  | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | [Soln.](../master/Questions_by_ID/175_Combine_Two_Tables.sql) | Amazon|  |
+| 175  | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | [Soln.](../master/Questions_by_ID/175_Combine_Two_Tables.sql) | Amazon| ot|
+
+| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Easy | [Soln.](../master/Questions_by_ID/176_Second_Highest_Salary.sql) |
 
 
 
