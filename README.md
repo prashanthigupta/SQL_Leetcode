@@ -24,42 +24,29 @@
 
 
 
-</p>
-</details>
 
 
-<details><summary>Basics</summary>
-<p>
-
- **#** | **Title** | **Difficulty** | **Solution** |
-|  --- |  ---      |  ---           |  ---         |
-
-</p>
-</details>
-
-<details><summary>Median</summary>
-<p>
-
- **#** | **Title** | **Difficulty** | **Solution** |
-|  --- |  ---      |  ---           |  ---         |
 
 
-</p>
-</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <details><summary>Hard</summary>
 <p>
 
- **#** | **Title** | **Difficulty** | **Solution** |
-|  --- |  ---      |  ---           |  ---         |
-
-</p>
-</details>
-
-
-
-
- **#** | **Title** | **Difficulty** | **Solution** |
+**#** | **Title** | **Difficulty** | **Solution** |
 |---|---|---|---|
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Easy | [Soln.](../master/Questions_by_ID/176_Second_Highest_Salary.sql) |
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | Medium | [Soln.](../master/Questions_by_ID/177_Nth_Highest_Salary.sql) |
@@ -165,3 +152,12 @@
 | 1384 | [Total Sales Amount by Year](https://leetcode.com/problems/total-sales-amount-by-year/) | Hard | [Soln.](../master/Questions_by_ID/1384_Total_Sales_Amount_by_Year.sql) |
 | 1393 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | Medium | [Soln.](../master/Questions_by_ID/1393_Capital_Gain_Loss.sql) |
 | 1398 | [Customers Who Bought Products A and B but Not C](https://leetcode.com/problems/customers-who-bought-products-a-and-b-but-not-c/) | Medium | [Soln.](../master/Questions_by_ID/1398_Customers_Who_Bought_Products_A_and_B_but_Not_C.sql) |
+
+
+</p>
+</details>
+
+
+
+
+ 
