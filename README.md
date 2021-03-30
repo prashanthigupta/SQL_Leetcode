@@ -5,18 +5,9 @@
 
  **#** | **Title** | **Difficulty** | **Solution** | **Check** |
 |  --- |  ---      |  ---           |  ---         |  ---      |
-| 175  | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | [Soln.](../master/Questions_by_ID/175_Combine_Two_Tables.sql) |- []|
+| 175  | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | [Soln.](../master/Questions_by_ID/175_Combine_Two_Tables.sql) | <ul><li>- [ ]</li><li>|
 
 
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
 
 
 
