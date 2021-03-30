@@ -1,10 +1,12 @@
 # SQL_Leetcode
 
-
 <details><summary>Basics</summary>
 <p>
 
-
+ **#** | **Title** | **Difficulty** | **Solution** |
+|  --- |  ---      |  ---           |  ---         |
+| 175  |[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/
+      )| Easy | [Soln.](/Basics/175_Combine_Two_Tables.sql) |
 
 </p>
 </details>
