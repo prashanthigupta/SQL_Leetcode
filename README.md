@@ -1,18 +1,67 @@
 # SQL_Leetcode
 
+<details><summary>LeetCode by Question ID</summary>
+<p>
+
+ **#** | **Title** | **Difficulty** | **Solution** |
+|  --- |  ---      |  ---           |  ---         |
+| 175  | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) 
+| Easy | [Soln.](../master/Questions_by_ID/175_Combine_Two_Tables.sql) |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+</details>
+
+
 <details><summary>Basics</summary>
 <p>
 
  **#** | **Title** | **Difficulty** | **Solution** |
 |  --- |  ---      |  ---           |  ---         |
-| 175  |[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)| Easy | [Soln.](/Basics/175_Combine_Two_Tables.sql) |
 
 </p>
 </details>
 
+<details><summary>Median</summary>
+<p>
+
+ **#** | **Title** | **Difficulty** | **Solution** |
+|  --- |  ---      |  ---           |  ---         |
+
+
+</p>
+</details>
+
+<details><summary>Hard</summary>
+<p>
+
+ **#** | **Title** | **Difficulty** | **Solution** |
+|  --- |  ---      |  ---           |  ---         |
+
+</p>
+</details>
+
+
+
+
  **#** | **Title** | **Difficulty** | **Solution** |
 |---|---|---|---|
-| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | [Soln.](../master/Questions_by_ID/175_Combine_Two_Tables.sql) |
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Easy | [Soln.](../master/Questions_by_ID/176_Second_Highest_Salary.sql) |
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | Medium | [Soln.](../master/Questions_by_ID/177_Nth_Highest_Salary.sql) |
 | 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | Medium | [Soln.](../master/Questions_by_ID/178_Rank_Scores.sql) |
