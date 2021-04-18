@@ -106,7 +106,6 @@
 | 1384 | [Total Sales Amount by Year](https://leetcode.com/problems/total-sales-amount-by-year/) | Hard | [Codes](By_Question_Order/1384_Total_Sales_Amount_by_Year.sql) | 
 | 1393 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | Medium | [Codes](By_Question_Order/1393_Capital_Gain_Loss.sql) | 
 | 1398 | [Customers Who Bought Products A and B but Not C](https://leetcode.com/problems/customers-who-bought-products-a-and-b-but-not-c/) | Medium | [Codes](By_Question_Order/1398_Customers_Who_Bought_Products_A_and_B_but_Not_C.sql) | 
-
 | 1407 | [Top Travellers](https://leetcode.com/problems/Top-Travellers/) | Easy | [Codes](By_Question_Order/1398_Customers_Who_Bought_Products_A_and_B_but_Not_C.sql) | 
 
 
