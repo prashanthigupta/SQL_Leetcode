@@ -28,11 +28,10 @@ regardless if there is an address for each of those people:
 FirstName, LastName, City, State
 
 
-``sql
 select p.firstname,p.lastname,a.city,a.state 
 from person p
 left join address a on a.personid=p.personid
-```
+
 
 
 
