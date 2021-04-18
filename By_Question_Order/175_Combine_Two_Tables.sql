@@ -27,6 +27,7 @@ regardless if there is an address for each of those people:
 
 FirstName, LastName, City, State
 
+=======================================================================================
 
 select p.firstname,p.lastname,a.city,a.state 
 from person p
