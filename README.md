@@ -2,7 +2,7 @@
 
  **#** | **Title** | **Difficulty** | **Solution**  |
 |  --- |  ---      |  ---           |  ---          |  
-| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | [Codes](By_Question_Order/175_Combine_Two_Tables.sql)｜
+| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | [Codes](By_Question_Order/175_Combine_Two_Tables.sql)| 
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Easy | [Codes](By_Question_Order/176_Second_Highest_Salary.sql) | 
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | Medium | [Codes](By_Question_Order/177_Nth_Highest_Salary.sql) | 
 | 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | Medium | [Codes](By_Question_Order/178_Rank_Scores.sql) | 
@@ -106,9 +106,7 @@
 | 1384 | [Total Sales Amount by Year](https://leetcode.com/problems/total-sales-amount-by-year/) | Hard | [Codes](By_Question_Order/1384_Total_Sales_Amount_by_Year.sql) | 
 | 1393 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | Medium | [Codes](By_Question_Order/1393_Capital_Gain_Loss.sql) | 
 | 1398 | [Customers Who Bought Products A and B but Not C](https://leetcode.com/problems/customers-who-bought-products-a-and-b-but-not-c/) | Medium | [Codes](By_Question_Order/1398_Customers_Who_Bought_Products_A_and_B_but_Not_C.sql) | 
-| 1407 | [Top Travellers](https://leetcode.com/problems/Top-Travellers/) | Easy | [Codes](By_Question_Order/1398_Customers_Who_Bought_Products_A_and_B_but_Not_C.sql) | 
-
-
+| 1407 | [Top Travellers](https://leetcode.com/problems/top-travellers/) | Easy | [Codes](By_Question_Order/1398_Customers_Who_Bought_Products_A_and_B_but_Not_C.sql) | 
 
 
 1412	1412. Find the Quiet Students in All Exams	Hard
