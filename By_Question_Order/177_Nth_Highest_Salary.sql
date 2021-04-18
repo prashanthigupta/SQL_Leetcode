@@ -1,3 +1,4 @@
+--  Question
 Write a SQL query to get the nth highest salary from the Employee table.
 
 +----+--------+
@@ -16,6 +17,7 @@ If there is no nth highest salary, then the query should return null.
 | 200                    |
 +------------------------+
 
+==========================================================================================
 CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT
 BEGIN
 DECLARE M INT;

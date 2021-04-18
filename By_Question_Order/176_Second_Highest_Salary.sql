@@ -1,3 +1,4 @@
+--  Question
 Write a SQL query to get the second highest salary from the Employee table.
 
 +----+--------+

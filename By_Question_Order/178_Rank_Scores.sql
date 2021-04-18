@@ -1,3 +1,5 @@
+--  Question
+
 Write a SQL query to rank scores. If there is a tie between two scores, 
 both should have the same ranking. Note that after a tie, the next ranking number 
 should be the next consecutive integer value. 
@@ -28,7 +30,17 @@ your query should generate the following report (order by highest score):
 +-------+---------+
 Important Note: For MySQL solutions, to escape reserved words used as column names, you can use an apostrophe before and after the keyword. For example `Rank`.
 
--- Solution: Window Function
-SELECT score, 
-DENSE_RANK() OVER (ORDER BY score DESC) AS 'Rank'
-FROM scores;
+====================================================================================
+## With Window FUN
+select
+score,
+dense_rank() over (order by score desc) as 'Rank'
+from scores
+
+## Without Window FUN
+    select a.Score as Score, 
+           count(distinct b.Score) as Rank # distinct important
+    from Scores as a 
+    left join Scores as b on a.Score <= b.Score
+    group by a.Id
+    order by a.Score desc
