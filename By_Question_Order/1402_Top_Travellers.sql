@@ -1,3 +1,7 @@
+
+
+
+============================================================================================
 -- Solution 1: CASE WHEN, Subquery
 WITH tb1 AS (
     SELECT DISTINCT customer_id, product_name,
