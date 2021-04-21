@@ -82,7 +82,7 @@
 | 1204 | [Last Person to Fit in the Elevator](https://leetcode.com/problems/last-person-to-fit-in-the-elevator/) | Medium | [Codes](By_Question_Order/1204_Last_Person_to_Fit_in_the_Elevator.sql) | 
 | 1205 | [Monthly Transactions II](https://leetcode.com/problems/monthly-transactions-ii/) | Medium | [Codes](By_Question_Order/1205_Monthly_Transactions_II.sql) |  
 | 1211 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | Easy | [Codes](By_Question_Order/1211_Queries_Quality_and_Percentage.sql) |  
-| 1212 | [Team Scores in Football Tournament](https://leetcode.com/problems/team-scores-in-football-tournament/submissions/) | Medium | [Codes](By_Question_Order/1212_Team_Scores_in_Football_Tournament.sql) | 
+| 1212 | [Team Scores in Football Tournament](https://leetcode.com/problems/team-scores-in-football-tournament/) | Medium | [Codes](By_Question_Order/1212_Team_Scores_in_Football_Tournament.sql) | 
 | 1225 | [Report Contiguous Dates](https://leetcode.com/problems/report-contiguous-dates/) | Hard | [Codes](By_Question_Order/1225_Report_Contiguous_Dates.sql) |  
 | 1241 | [Number of Comments per Post](https://leetcode.com/problems/number-of-comments-per-post/) | Easy | [Codes](By_Question_Order/1241_Number_of_Comments_per_Post.sql) |  
 | 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price/) | Easy | [Codes](By_Question_Order/1251_Average_Selling_Price.sql) |  
