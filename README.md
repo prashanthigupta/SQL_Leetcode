@@ -118,17 +118,16 @@
 | 1479 | [Sales by Day of the Week](https://leetcode.com/problems/sales-by-day-of-the-week/) | Hard | [Codes](By_Question_Order/1479_Sales_by_Day_of_the_Week.sql) | 
 | 1484 | [Group Sold Products By](tcode.com/problems/group-sold-products-by-the-date/) | Easy | [Codes](By_Question_Order/1484_Group_Sold_Products_By_The_Date.sql) | 
 | 1495 | [Friendly Movies Streamed Last Month](https://leetcode.com/problems/friendly-movies-streamed-last-month/) | Easy | [Codes](By_Question_Order/1495_Friendly_Movies_Streamed_Last_Month.sql) | 
+| 1501 | [Countries You Can Safely Invest In](https://leetcode.com/problems/countries-you-can-safely-invest-in/) | Medium | [Codes](By_Question_Order/1501_Countries_You_Can_Safely_Invest_In.sql) | 
+| 1511 | [Customer Order Frequency](https://leetcode.com/problems/customer-order-frequency/) | Easy | [Codes](By_Question_Order/1511_Customer_Order_Frequency.sql) | 
+| 1517 | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/) | Easy | [Codes](By_Question_Order/1517_Find_Users_With_Valid_E-Mails.sql) | 
+| 1527 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | Easy | [Codes](By_Question_Order/1527_Patients_With_a_Condition.sql) | 
+| 1532 | [The Most Recent Three Orders](https://leetcode.com/problems/the-most-recent-three-orders/) | Medium | [Codes](By_Question_Order/1532_The_Most_Recent_Three_Orders.sql) | 
+| 1543 | [Fix Product Name Format](https://leetcode.com/problems/fix-product-name-format/) | Easy | [Codes](By_Question_Order/1543_Fix_Product_Name_Format.sql) | 
+| 1549 | [The Most Recent Orders for Each Product](https://leetcode.com/problems/the-most-recent-orders-for-each-product/) | Medium | [Codes](By_Question_Order/1549_The_Most_Recent_Orders_for_Each_Product.sql) | 
+| 1555 | [Bank Account Summary](https://leetcode.com/problems/bank-account-summary/) | Medium | [Codes](By_Question_Order/1555_Bank_Account_Summary.sql) | 
+| 1565 | [Unique Orders and Customers Per Month](https://leetcode.com/problems/unique-orders-and-customers-per-month/) | Easy | [Codes](By_Question_Order/1565_Unique_Orders_and_Customers_Per_Month.sql) | 
 
-
-|  | [   ]() | Easy | [Codes](By_Question_Order/) | 
-|  | [   ]() | Easy | [Codes](By_Question_Order/) | 
-|  | [   ]() | Easy | [Codes](By_Question_Order/) | 
-|  | [   ]() | Easy | [Codes](By_Question_Order/) | 
-|  | [   ]() | Easy | [Codes](By_Question_Order/) | 
-|  | [   ]() | Easy | [Codes](By_Question_Order/) | 
-|  | [   ]() | Easy | [Codes](By_Question_Order/) | 
-|  | [   ]() | Easy | [Codes](By_Question_Order/) | 
-|  | [   ]() | Easy | [Codes](By_Question_Order/) | 
 
 
 1501	1501. Countries You Can Safely Invest In	Medium
