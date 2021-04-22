@@ -112,17 +112,25 @@
 | 1435 | [Create a Session Bar Chart](https://leetcode.com/problems/create-a-session-bar-chart/) | Easy | [Codes](By_Question_Order/1435_Create_a_Session_Bar_Chart.sql) | 
 | 1440 | [Evaluate Boolean Expression](https://leetcode.com/problems/evaluate-boolean-expression/) | Medium | [Codes](By_Question_Order/1440_Evaluate_Boolean_Expression.sql) | 
 | 1445 | [Apples & Oranges](https://leetcode.com/problems/apples-oranges/) | Medium | [Codes](By_Question_Order/1445_Apples_&_Oranges.sql) | 
+| 1454 | [Active Users](https://leetcode.com/problems/active-users/) | Medium | [Codes](By_Question_Order/1454_Active_Users.sql) | 
+| 1459 | [Rectangles Area](https://leetcode.com/problems/rectangles-area/) | Medium | [Codes](By_Question_Order/1459_Rectangles_Area.sql) | 
+| 1468 | [Calculate Salaries](https://leetcode.com/problems/calculate-salaries/) | Medium| [Codes](By_Question_Order/1468_Calculate_Salaries.sql) | 
+| 1479 | [Sales by Day of the Week](https://leetcode.com/problems/sales-by-day-of-the-week/) | Hard | [Codes](By_Question_Order/1479_Sales_by_Day_of_the_Week.sql) | 
+| 1484 | [Group Sold Products By](tcode.com/problems/group-sold-products-by-the-date/) | Easy | [Codes](By_Question_Order/1484_Group_Sold_Products_By_The_Date.sql) | 
+| 1495 | [Friendly Movies Streamed Last Month](https://leetcode.com/problems/friendly-movies-streamed-last-month/) | Easy | [Codes](By_Question_Order/1495_Friendly_Movies_Streamed_Last_Month.sql) | 
 
 
+|  | [   ]() | Easy | [Codes](By_Question_Order/) | 
+|  | [   ]() | Easy | [Codes](By_Question_Order/) | 
+|  | [   ]() | Easy | [Codes](By_Question_Order/) | 
+|  | [   ]() | Easy | [Codes](By_Question_Order/) | 
+|  | [   ]() | Easy | [Codes](By_Question_Order/) | 
+|  | [   ]() | Easy | [Codes](By_Question_Order/) | 
+|  | [   ]() | Easy | [Codes](By_Question_Order/) | 
+|  | [   ]() | Easy | [Codes](By_Question_Order/) | 
+|  | [   ]() | Easy | [Codes](By_Question_Order/) | 
 
 
-
-1454	1454. Active Users	Medium
-1459	1459. Rectangles Area	Medium
-1468	1468. Calculate Salaries	Medium
-1479	1479. Sales by Day of the Week	Hard
-1484	1484. Group Sold Products By The Date	Easy
-1495	1495. Friendly Movies Streamed Last Month	Easy
 1501	1501. Countries You Can Safely Invest In	Medium
 1511	1511. Customer Order Frequency	Easy
 1517	1517. Find Users With Valid E-Mails	Easy
