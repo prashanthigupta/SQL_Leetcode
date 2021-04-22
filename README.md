@@ -128,7 +128,8 @@
 | 1555 | [Bank Account Summary](https://leetcode.com/problems/bank-account-summary/) | Medium | [Codes](By_Question_Order/1555_Bank_Account_Summary.sql) | 
 | 1565 | [Unique Orders and Customers Per Month](https://leetcode.com/problems/unique-orders-and-customers-per-month/) | Easy | [Codes](By_Question_Order/1565_Unique_Orders_and_Customers_Per_Month.sql) | 
 
-
+| 1777 | [Product's Price for Each Store](https://leetcode.com/problems/products-price-for-each-store/)|Easy| [Codes](By_Question_Order/1777_Product's_Price_for_Each_Store.sql) |
+| 1821 |[Find Customers With Positive Revenue this Year](https://leetcode.com/problems/find-customers-with-positive-revenue-this-year/)| Easy | [Codes](By_Question_Order/1821_Find_Customers_With_Positive_Revenue_this_Year.sql) |
 
 1501	1501. Countries You Can Safely Invest In	Medium
 1511	1511. Customer Order Frequency	Easy
@@ -164,13 +165,15 @@
 1747	1747. Leetflex Banned Accounts	Medium
 1757	1757. Recyclable and Low Fat Products	Easy
 1767	1767. Find the Subtasks That Did Not Execute	Hard
-1777	1777. Product's Price for Each Store	Easy
+
+
+
 1783	1783. Grand Slam Titles	Medium
 1789	1789. Primary Department for Each Employee	Easy
 1795	1795. Rearrange Products Table	Easy
 1809	1809. Ad-Free Sessions	Easy
-1811	1811. Find Interview Candidates	Medium
-1821	1821. Find Customers With Positive Revenue this Year	Easy
+| 1811 |[Find Interview Candidates]()| Medium | [Codes](By_Question_Order/1811_Find_Interview_Candidates.sql) |
+
 
 
 
