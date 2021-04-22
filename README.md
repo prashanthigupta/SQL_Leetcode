@@ -106,14 +106,17 @@
 | 1384 | [Total Sales Amount by Year](https://leetcode.com/problems/total-sales-amount-by-year/) | Hard | [Codes](By_Question_Order/1384_Total_Sales_Amount_by_Year.sql) | 
 | 1393 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | Medium | [Codes](By_Question_Order/1393_Capital_Gain_Loss.sql) | 
 | 1398 | [Customers Who Bought Products A and B but Not C](https://leetcode.com/problems/customers-who-bought-products-a-and-b-but-not-c/) | Medium | [Codes](By_Question_Order/1398_Customers_Who_Bought_Products_A_and_B_but_Not_C.sql) | 
-| 1407 | [Top Travellers](https://leetcode.com/problems/top-travellers/) | Easy | [Codes](By_Question_Order/1398_Customers_Who_Bought_Products_A_and_B_but_Not_C.sql) | 
+| 1407 | [Top Travellers](https://leetcode.com/problems/top-travellers/) | Easy | [Codes](By_Question_Order/1407_Top_Travellers.sql) | 
+| 1412 | [Find the Quiet Students in All Exams](https://leetcode.com/problems/find-the-quiet-students-in-all-exams/) | Hard | [Codes](By_Question_Order/1412_Find_the_Quiet_Students_in_All_Exams.sql) |
+| 1421 | [NPV Queries](https://leetcode.com/problems/npv-queries/)| Medium | [Codes](By_Question_Order/1421_NPV_Queries.sql) | 
+| 1435 | [Create a Session Bar Chart](https://leetcode.com/problems/create-a-session-bar-chart/) | Easy | [Codes](By_Question_Order/1435_Create_a_Session_Bar_Chart.sql) | 
+| 1440 | [Evaluate Boolean Expression](https://leetcode.com/problems/evaluate-boolean-expression/) | Medium | [Codes](By_Question_Order/1440_Evaluate_Boolean_Expression.sql) | 
+| 1445 | [Apples & Oranges](https://leetcode.com/problems/apples-oranges/) | Medium | [Codes](By_Question_Order/1445_Apples_&_Oranges.sql) | 
 
 
-1412	1412. Find the Quiet Students in All Exams	Hard
-1421	1421. NPV Queries	Medium
-1435	1435. Create a Session Bar Chart	Easy
-1440	1440. Evaluate Boolean Expression	Medium
-1445	1445. Apples & Oranges	Medium
+
+
+
 1454	1454. Active Users	Medium
 1459	1459. Rectangles Area	Medium
 1468	1468. Calculate Salaries	Medium
