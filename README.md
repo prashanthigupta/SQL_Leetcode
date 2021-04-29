@@ -126,58 +126,42 @@
 | 1543 | [Fix Product Name Format](https://leetcode.com/problems/fix-product-name-format/) | Easy | [Codes](By_Question_Order/1543_Fix_Product_Name_Format.sql) | 
 | 1549 | [The Most Recent Orders for Each Product](https://leetcode.com/problems/the-most-recent-orders-for-each-product/) | Medium | [Codes](By_Question_Order/1549_The_Most_Recent_Orders_for_Each_Product.sql) | 
 | 1555 | [Bank Account Summary](https://leetcode.com/problems/bank-account-summary/) | Medium | [Codes](By_Question_Order/1555_Bank_Account_Summary.sql) | 
-| 1565 | [Unique Orders and Customers Per Month](https://leetcode.com/problems/unique-orders-and-customers-per-month/) | Easy | [Codes](By_Question_Order/1565_Unique_Orders_and_Customers_Per_Month.sql) | 
+| 1565 | [Unique Orders and Customers Per Month](https://leetcode.com/problems/unique-orders-and-customers-per-month/) | Easy | [Codes](By_Question_Order/1565_Unique_Orders_and_Customers_Per_Month.sql) |
 | 1571 | [Warehouse Manager](https://leetcode.com/problems/warehouse-manager/)|Easy | [Codes](By_Question_Order/1571_Warehouse_Manager.sql) |
+| 1581 | [Customer Who Visited but Did Not Make Any Transactions]() | Easy | [Codes](By_Question_Order/1581_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.sql) | 
 | 1587 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) | Easy | [Code](By_Question_Order/1587_Bank_Account_Summary_II.sql) |
 | 1596 |[The Most Frequently Ordered Products for Each Customer](https://leetcode.com/problems/the-most-frequently-ordered-products-for-each-customer/) | Medium | [Codes](By_Question_Order/1596_The_Most_Frequently_Ordered_Products_for_Each_Customer.sql) |
+| 1607 | [Sellers With No Sales](https://leetcode.com/problems/sellers-with-no-sales/) | Easy | [Codes](By_Question_Order/1607_Sellers_With_No_Sales.sql) | 
 | 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/)| Easy | [Codes](By_Question_Order/1667_Fix_Names_in_a_Table.sql) |
-| 1741 |[Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | Easy | [Codes](By_Question_Order/1741_Find_Total_Time_Spent_by_Each_Employee.sql)|
-| 1777 | [Product's Price for Each Store](https://leetcode.com/problems/products-price-for-each-store/)|Easy| [Codes](By_Question_Order/1777_Product's_Price_for_Each_Store.sql) |
-| 1783 | [Grand Slam Titles](https://leetcode.com/problems/grand-slam-titles/) | Medium | [Codes](By_Question_Order/1783_Grand_Slam_Titles.sql) |
-| 1789 |[Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/) | Easy | [Codes](By_Question_Order/1789_Primary_Department_for_Each_Employee.sql)|
-| 1821 |[Find Customers With Positive Revenue this Year](https://leetcode.com/problems/find-customers-with-positive-revenue-this-year/)| Easy | [Codes](By_Question_Order/1821_Find_Customers_With_Positive_Revenue_this_Year.sql) |
-
-| 1501| Countries You Can Safely Invest In	Medium
-| 1511| Customer Order Frequency	Easy
-| 1517| Find Users With Valid E-Mails	Easy
-| 1527| Patients With a Condition	Easy
-| 1532| The Most Recent Three Orders	Medium
-| 1543| Fix Product Name Format	Easy
-| 1549| The Most Recent Orders for Each Product	Medium
-| 1555| Bank Account Summary	Medium
-| 1565| Unique Orders and Customers Per Month	Easy
-
-
-| 1581 |[Customer Who Visited but Did Not Make Any Transactions]()| Easy | [Codes](By_Question_Order/) |
-| 1607 |[1607. Sellers With No Sales]() | Easy |[Codes](By_Question_Order/) |
-| 1613 |[Find the Missing IDs]() | Medium |[Codes](By_Question_Order/) |
-| 1623 |[All Valid Triplets That Can Represent a Country]()|Easy |[Codes](By_Question_Order/) |
-| 1633 |[Percentage of Users Attended a Contest]()|	Easy |[Codes](By_Question_Order/) |
-| 1635 |[Hopper Company Queries I]()| Hard |[Codes](By_Question_Order/) |
-| 1645 |[Hopper Company Queries II]()| Hard |[Codes](By_Question_Order/) |
-| 1651 |[Hopper Company Queries III]()| Hard |[Codes](By_Question_Order/) |
+| 1613 | [Find the Missing IDs](https://leetcode.com/problems/find-the-missing-ids/) | Medium | [Codes](By_Question_Order/1613_Find_the_Missing_IDs.sql) | 
+| 1623 | [All Valid Triplets That Can Represent a Country]() | Easy | [Codes](By_Question_Order/1623_All_Valid_Triplets_That_Can_Represent_a_Country.sql) | 
+| 1633 |[Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/)| Easy |[Codes](By_Question_Order/1633_Percentage_of_Users_Attended_a_Contest.sql) |
+| 1635 |[Hopper Company Queries I]()| Hard |[Codes](By_Question_Order/1635_Hopper_Company_Queries_I.sql) |
+| 1645 |[Hopper Company Queries II]()| Hard |[Codes](By_Question_Order/1645_Hopper_Company_Queries_II.sql) |
+| 1651 |[Hopper Company Queries III]()| Hard |[Codes](By_Question_Order/1651_Hopper_Company_Queries_III.sql) |
 | 1661 |[Average Time of Process per Machine]()| Easy |[Codes](By_Question_Order/) |
 | 1677 |[Product's Worth Over Invoices]()| Easy |[Codes](By_Question_Order/) |
-
-| 1683 |[Invalid Tweets]()|	Easy |[Codes](By_Question_Order/1683_Invalid_Tweets.sql
-) |
-
-| 1693 |[Daily Leads and Partners]()| Easy |[Codes](By_Question_Order/1693_Daily_Leads_and_Partners.sql) |
-
-| 1699 |[Number of Calls Between Two Persons]()| Medium |[Codes](By_Question_Order/1699_Number_of_Calls_Between_Two_Persons.sql) |
-
-1709	1709. Biggest Window Between Visits	Medium
-1715	1715. Count Apples and Oranges	Medium
-1729	1729. Find Followers Count	Easy
-1731	1731. The Number of Employees Which Report to Each Employee	Easy
-1747	1747. Leetflex Banned Accounts	Medium
-1757	1757. Recyclable and Low Fat Products	Easy
-1767	1767. Find the Subtasks That Did Not Execute	Hard
-1795	1795. Rearrange Products Table	Easy
-1809	1809. Ad-Free Sessions	Easy
-| 1811 |[Find Interview Candidates]()| Medium | [Codes](By_Question_Order/1811_Find_Interview_Candidates.sql) |
-
-
+| 1683 |[Invalid Tweets](https://leetcode.com/problems/invalid-tweets/)|	Easy |[Codes](By_Question_Order/1683_Invalid_Tweets.sql) |
+| 1693 |[Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/)| Easy |[Codes](By_Question_Order/1693_Daily_Leads_and_Partners.sql) |
+| 1699 |[Number of Calls Between Two Persons](https://leetcode.com/problems/number-of-calls-between-two-persons/)| Medium |[Codes](By_Question_Order/1699_Number_of_Calls_Between_Two_Persons.sql) |
+| 1709 | [Biggest Window Between Visits]() | Easy | [Codes](By_Question_Order/) |
+| 1715 | [Count Apples and Oranges]() | Easy | [Codes](By_Question_Order/ ) | 
+| 1729 | [Find Followers Count]() | Easy | [Codes](By_Question_Order/ ) | 
+| 1731 | [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/) | Easy | [Codes](By_Question_Order/1731_The_Number_of_Employees_Which_Report_to_Each_Employee.sql) | 
+| 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | Easy | [Codes](By_Question_Order/1741_Find_Total_Time_Spent_by_Each_Employee.sql)|
+| 1747 | [Leetflex Banned Accounts]() | Easy | [Codes](By_Question_Order/ ) | 
+| 1757 | [Recyclable and Low Fat Products]() | Easy | [Codes](By_Question_Order/ )| 
+| 1767 | [Find the Subtasks That Did Not Execute]() | Easy | [Codes](By_Question_Order/ ) | 
+| 1777 | [Product's Price for Each Store](https://leetcode.com/problems/products-price-for-each-store/)|Easy| [Codes](By_Question_Order/1777_Product's_Price_for_Each_Store.sql) |
+| 1783 | [Grand Slam Titles](https://leetcode.com/problems/grand-slam-titles/) | Medium | [Codes](By_Question_Order/1783_Grand_Slam_Titles.sql) |
+| 1789 | [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/) | Easy | [Codes](By_Question_Order/1789_Primary_Department_for_Each_Employee.sql)|
+| 1795 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/) | Easy | [Codes](By_Question_Order/1795_Rearrange_Products_Table.sql) | 
+| 1809 | [Ad-Free Sessions](https://leetcode.com/problems/ad-free-sessions/) | Easy | [Codes](By_Question_Order/ ) | 
+| 1811 | [Find Interview Candidates]()| Medium | [Codes](By_Question_Order/1811_Find_Interview_Candidates.sql)|
+| 1821 | [Find Customers With Positive Revenue this Year](https://leetcode.com/problems/find-customers-with-positive-revenue-this-year/)| Easy | [Codes](By_Question_Order/1821_Find_Customers_With_Positive_Revenue_this_Year.sql) |
 
 
- 
+
+
+
+
