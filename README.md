@@ -139,18 +139,18 @@
 | 1635 |[Hopper Company Queries I]()| Hard |[Codes](By_Question_Order/1635_Hopper_Company_Queries_I.sql) |
 | 1645 |[Hopper Company Queries II]()| Hard |[Codes](By_Question_Order/1645_Hopper_Company_Queries_II.sql) |
 | 1651 |[Hopper Company Queries III]()| Hard |[Codes](By_Question_Order/1651_Hopper_Company_Queries_III.sql) |
-| 1661 |[Average Time of Process per Machine]()| Easy |[Codes](By_Question_Order/) |
+| 1661 |[Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/)| Easy |[Codes](By_Question_Order/1661_Average_Time_of_Process_per_Machine.sql)|
 | 1677 |[Product's Worth Over Invoices]()| Easy |[Codes](By_Question_Order/) |
 | 1683 |[Invalid Tweets](https://leetcode.com/problems/invalid-tweets/)|	Easy |[Codes](By_Question_Order/1683_Invalid_Tweets.sql) |
 | 1693 |[Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/)| Easy |[Codes](By_Question_Order/1693_Daily_Leads_and_Partners.sql) |
 | 1699 |[Number of Calls Between Two Persons](https://leetcode.com/problems/number-of-calls-between-two-persons/)| Medium |[Codes](By_Question_Order/1699_Number_of_Calls_Between_Two_Persons.sql) |
 | 1709 | [Biggest Window Between Visits]() | Easy | [Codes](By_Question_Order/) |
-| 1715 | [Count Apples and Oranges]() | Easy | [Codes](By_Question_Order/ ) | 
-| 1729 | [Find Followers Count]() | Easy | [Codes](By_Question_Order/ ) | 
+| 1715 | [Count Apples and Oranges](https://leetcode.com/problems/count-apples-and-oranges/) | Easy | [Codes](By_Question_Order/1715_Count_Apples_and_Oranges.sql) | 
+| 1729 | [Find Followers Count](https://leetcode.com/problems/find-followers-count/) | Easy | [Codes](By_Question_Order/1729_Find_Followers_Count.sql) | 
 | 1731 | [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/) | Easy | [Codes](By_Question_Order/1731_The_Number_of_Employees_Which_Report_to_Each_Employee.sql) | 
 | 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | Easy | [Codes](By_Question_Order/1741_Find_Total_Time_Spent_by_Each_Employee.sql)|
 | 1747 | [Leetflex Banned Accounts]() | Easy | [Codes](By_Question_Order/ ) | 
-| 1757 | [Recyclable and Low Fat Products]() | Easy | [Codes](By_Question_Order/ )| 
+| 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | Easy | [Codes](By_Question_Order/1757_recyclable_and_low_fat_products.sql)| 
 | 1767 | [Find the Subtasks That Did Not Execute]() | Easy | [Codes](By_Question_Order/ ) | 
 | 1777 | [Product's Price for Each Store](https://leetcode.com/problems/products-price-for-each-store/)|Easy| [Codes](By_Question_Order/1777_Product's_Price_for_Each_Store.sql) |
 | 1783 | [Grand Slam Titles](https://leetcode.com/problems/grand-slam-titles/) | Medium | [Codes](By_Question_Order/1783_Grand_Slam_Titles.sql) |
