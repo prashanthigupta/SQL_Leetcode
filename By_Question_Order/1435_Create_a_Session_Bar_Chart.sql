@@ -47,7 +47,7 @@ For session_id 5 has a duration greater or equal than 15 minutes.
 
 
 ================================================================================================================
-
+# Method 1
 with t1 as (
 select
 *,
@@ -71,21 +71,7 @@ t2.bin, count(t1.session_id) as total
 from t2 left join t1 on t1.bin=t2.bin
 group by t2.bin
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Method 2
 SELECT b.bin, IFNULL(COUNT(s.session_id),0) AS total
 FROM 
     (SELECT session_id, 

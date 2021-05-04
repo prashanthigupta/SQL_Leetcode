@@ -71,8 +71,28 @@ Customer with id = 96 visited the mall once and did not make any transactions.
 As we can see, users with IDs 30 and 96 visited the mall one time without making any transactions. Also user 54 visited the mall twice and did not make any transactions.
 
 ======================================================================================================
+# Join Method
+select
+v.customer_id as customer_id, 
+count(v.customer_id) as count_no_trans
+
+from visits v
+left join transactions t on t.visit_id=v.visit_id
+
+where t.transaction_id is null
+group by v.customer_id
 
 
+
+
+# Where not in Method
+select
+customer_id,
+count(visit_id) as count_no_trans
+from visits  
+where visit_id not in
+    (select distinct visit_id from transactions)
+group by customer_id
 
 
 
