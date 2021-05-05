@@ -149,7 +149,7 @@
 | 1729 | [Find Followers Count](https://leetcode.com/problems/find-followers-count/) | Easy | [Codes](By_Question_Order/1729_Find_Followers_Count.sql) | 
 | 1731 | [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/) | Easy | [Codes](By_Question_Order/1731_The_Number_of_Employees_Which_Report_to_Each_Employee.sql) | 
 | 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | Easy | [Codes](By_Question_Order/1741_Find_Total_Time_Spent_by_Each_Employee.sql)|
-| 1747 | [Leetflex Banned Accounts]() | Easy | [Codes](By_Question_Order/ ) | 
+| 1747 | [Leetflex Banned Accounts](https://leetcode.com/problems/leetflex-banned-accounts/) | Easy | [Codes](By_Question_Order/1747_Leetflex_Banned_Accounts.sql) | 
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | Easy | [Codes](By_Question_Order/1757_recyclable_and_low_fat_products.sql)| 
 | 1767 | [Find the Subtasks That Did Not Execute]() | Easy | [Codes](By_Question_Order/ ) | 
 | 1777 | [Product's Price for Each Store](https://leetcode.com/problems/products-price-for-each-store/)|Easy| [Codes](By_Question_Order/1777_Product's_Price_for_Each_Store.sql) |
@@ -157,9 +157,10 @@
 | 1789 | [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/) | Easy | [Codes](By_Question_Order/1789_Primary_Department_for_Each_Employee.sql)|
 | 1795 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/) | Easy | [Codes](By_Question_Order/1795_Rearrange_Products_Table.sql) | 
 | 1809 | [Ad-Free Sessions](https://leetcode.com/problems/ad-free-sessions/) | Easy | [Codes](By_Question_Order/ ) | 
-| 1811 | [Find Interview Candidates]()| Medium | [Codes](By_Question_Order/1811_Find_Interview_Candidates.sql)|
+| 1811 | [Find Interview Candidates](https://leetcode.com/problems/find-interview-candidates/)| Medium | [Codes](By_Question_Order/1811_Find_Interview_Candidates.sql)|
 | 1821 | [Find Customers With Positive Revenue this Year](https://leetcode.com/problems/find-customers-with-positive-revenue-this-year/)| Easy | [Codes](By_Question_Order/1821_Find_Customers_With_Positive_Revenue_this_Year.sql) |
-
-| 1841| [League Statistics](https://leetcode.com/problems/league-statistics/) | Medium | [Codes](By_Question_Order/) |
+| 1831 |[Maximum Transaction Each Day](https://leetcode.com/problems/maximum-transaction-each-day/) | |[Codes](By_Question_Order/1831_Maximum_Transaction_Each_Day.sql) |
+| 1841| [League Statistics](https://leetcode.com/problems/league-statistics/) | Medium | [Codes](By_Question_Order/1841_League_Statistics.sql) |
+| 1843| [League Statistics](https://leetcode.com/problems/suspicious-bank-accounts/) | Medium | [Codes](By_Question_Order/1843_Suspicious_Bank_Accounts.sql) |
 
 
