@@ -98,13 +98,32 @@ The average call duration for Peru is (102 + 102 + 330 + 330 + 5 + 5) / 6 = 145.
 The average call duration for Israel is (33 + 4 + 13 + 13 + 3 + 1 + 1 + 7) / 8 = 9.37500
 The average call duration for Morocco is (33 + 4 + 59 + 59 + 3 + 7) / 6 = 27.5000 
 Global call duration average = (2 * (33 + 4 + 59 + 102 + 330 + 5 + 13 + 3 + 1 + 7)) / 20 = 55.70000
-Since Peru is the only country where average call duration is greater than the global average, it's the only recommended country.
+Since Peru is the only country where average call duration is greater than the global average, 
+it-s the only recommended country.
 
 ==========================================================================================
-
+# Method 1
 SELECT Country.name AS country
 FROM Person 
 JOIN Calls ON Calls.caller_id = Person.id OR Calls.callee_id = Person.id
 JOIN Country ON Country.country_code = LEFT(Person.phone_number, 3)
 GROUP BY Country.name
 HAVING AVG(duration) > (SELECT AVG(duration) FROM Calls)
+
+
+# Method 2
+with new_call as (
+select caller_id as id, duration
+from calls 
+union all
+select callee_id as id, duration
+from calls 
+)
+
+select
+ct.name as country
+from new_call c 
+inner join person p on p.id = c.id
+inner join country ct on ct.country_code =left(p.phone_number,3)
+group by ct.name
+having avg(c.duration) > (select avg(duration) from calls)
