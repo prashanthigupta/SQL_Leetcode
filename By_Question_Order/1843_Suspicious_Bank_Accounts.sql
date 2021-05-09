@@ -84,5 +84,23 @@ We can see that the income exceeded the max income in May and July, but not in J
 ====================================================================================================
 
 
+with cte as (
+select 
+    t.account_id, 
+    left(t.day,7) as month, 
+    case when sum(t.amount) > a.max_income then 1 else 0 end as exceed
+from transactions t
+inner join accounts a on t.account_id = a.account_id
+where t.type = 'Creditor'
+group by left(t.day,7), t.account_id
+having exceed =1
+order by 1,2
+)
+
+select 
+distinct c1.account_id
+from cte c1 
+inner join cte c2 on c1.account_id =c2.account_id
+and substr(c1.month,7,1)+1 = substr(c2.month,7,1)
 
 
