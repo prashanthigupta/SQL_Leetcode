@@ -162,5 +162,5 @@
 | 1831 |[Maximum Transaction Each Day](https://leetcode.com/problems/maximum-transaction-each-day/) | |[Codes](By_Question_Order/1831_Maximum_Transaction_Each_Day.sql) |
 | 1841| [League Statistics](https://leetcode.com/problems/league-statistics/) | Medium | [Codes](By_Question_Order/1841_League_Statistics.sql) |
 | 1843| [Suspicious Bank Accounts](https://leetcode.com/problems/suspicious-bank-accounts/) | Medium | [Codes](By_Question_Order/1843_Suspicious_Bank_Accounts.sql) |
-
+| 1867 | [Orders With Maximum Quantity Above Average](https://leetcode.com/problems/orders-with-maximum-quantity-above-average/) | Medium | [Codes](By_Question_Order/1867_Orders_With_Maximum_Quantity_Above_Average.sql) |
 
