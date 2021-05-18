@@ -80,4 +80,55 @@ Arsenal (team_id=6) played 2 matches: 2 draws. Total points = 1 + 1 = 2.
 Dortmund is the first team in the table. Ajax and Arsenal have the same points, but since Arsenal has a higher goal_diff than Ajax, Arsenal comes before Ajax in the table.
 
 =================================================================================================
+with t as (
+		select
+		*,
+		case when home_team_goals=away_team_goals then 1
+		     when home_team_goals> away_team_goals then 3
+		     else 0 
+		end as home_points,
+		case when home_team_goals=away_team_goals then 1
+		     when home_team_goals< away_team_goals then 3
+		     else 0 
+		end as away_points
+		from matches),
+new as (
+		select 
+		    t.home_team_id as team_id,
+		    t.home_team_goals as team_goals,
+		    t.home_points as points
+		from t
+		union all
+		select 
+		    t.away_team_id as team_id,
+		    t.away_team_goals as team_goals,
+		    t.away_points as points
+		from t   
+),
+against as (
+				select
+				tb.team_id,
+				sum(tb.goals) as goal_against
+				from (select 
+							home_team_id as team_id,away_team_goals as goals
+							from matches
+							union all
+							select
+							away_team_id as team_id,home_team_goals as goals
+							from matches) as tb
+				group by tb.team_id
+)
 
+select
+teams.team_name,
+count(new.team_id) as matches_played,
+sum(new.points) as points,
+sum(new.team_goals) as goal_for,
+against.goal_against as goal_against,
+sum(new.team_goals)- against.goal_against as goal_diff
+
+from new 
+inner join teams on teams.team_id =  new.team_id
+inner join against on against.team_id = new.team_id
+group by new.team_id
+order by sum(new.points) desc, goal_diff desc, teams.team_name asc
