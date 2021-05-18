@@ -83,7 +83,46 @@ We can see that the income exceeded the max income in May and July, but not in J
 
 ====================================================================================================
 
+# Method 1: consecutive way
+with t as (
+select
+a.account_id, year(day) as year, month(day) as month,
+sum(t.amount) as total_income,
+a.max_income
+from accounts a 
+left join transactions t on t.account_id = a.account_id
+where t.type="Creditor"
+group by a.account_id, year(day), month(day)
+having sum(t.amount)> a.max_income)
 
+select 
+distinct t1.account_id
+from t t1 
+left join t t2 on t1.account_id = t2.account_id and t1.month+1=t2.month
+where t2.month is not null
+
+# Method 2 : Window Fun
+select account_id
+from
+(
+    select a.account_id, 
+           m.month - lag(m.month)over(partition by m.account_id order by m.month) as month_diff
+    from accounts as a
+    join
+        (
+        select account_id, month(day) as month, sum(amount) as income
+        from transactions
+        where type = 'Creditor'
+        group by account_id, month(day)
+        ) as m
+    on a.account_id = m.account_id
+    where a.max_income < m.income
+) as t
+group by account_id
+having min(month_diff) = 1
+
+
+# Method 3: substr 
 with cte as (
 select 
     t.account_id, 
@@ -101,6 +140,6 @@ select
 distinct c1.account_id
 from cte c1 
 inner join cte c2 on c1.account_id =c2.account_id
-and substr(c1.month,7,1)+1 = substr(c2.month,7,1)
+and substr(c1.month,6,2)+1 = substr(c2.month,6,2)
 
 
