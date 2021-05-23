@@ -159,7 +159,7 @@
 | 1809 | [Ad-Free Sessions](https://leetcode.com/problems/ad-free-sessions/) | Easy | [Codes](By_Question_Order/ ) | 
 | 1811 | [Find Interview Candidates](https://leetcode.com/problems/find-interview-candidates/)| Medium | [Codes](By_Question_Order/1811_Find_Interview_Candidates.sql)|
 | 1821 | [Find Customers With Positive Revenue this Year](https://leetcode.com/problems/find-customers-with-positive-revenue-this-year/)| Easy | [Codes](By_Question_Order/1821_Find_Customers_With_Positive_Revenue_this_Year.sql) |
-| 1831 |[Maximum Transaction Each Day](https://leetcode.com/problems/maximum-transaction-each-day/) | |[Codes](By_Question_Order/1831_Maximum_Transaction_Each_Day.sql) |
+| 1831 |[Maximum Transaction Each Day](https://leetcode.com/problems/maximum-transaction-each-day/) |Medium|[Codes](By_Question_Order/1831_Maximum_Transaction_Each_Day.sql) |
 | 1841| [League Statistics](https://leetcode.com/problems/league-statistics/) | Medium | [Codes](By_Question_Order/1841_League_Statistics.sql) |
 | 1843| [Suspicious Bank Accounts](https://leetcode.com/problems/suspicious-bank-accounts/) | Medium | [Codes](By_Question_Order/1843_Suspicious_Bank_Accounts.sql) |
 | 1867 | [Orders With Maximum Quantity Above Average](https://leetcode.com/problems/orders-with-maximum-quantity-above-average/) | Medium | [Codes](By_Question_Order/1867_Orders_With_Maximum_Quantity_Above_Average.sql) |
