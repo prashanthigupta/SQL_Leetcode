@@ -162,5 +162,15 @@
 | 1831 | [Maximum Transaction Each Day](https://leetcode.com/problems/maximum-transaction-each-day/) |Medium|[Codes](By_Question_Order/1831_Maximum_Transaction_Each_Day.sql) |
 | 1841 | [League Statistics](https://leetcode.com/problems/league-statistics/) | Medium | [Codes](By_Question_Order/1841_League_Statistics.sql) |
 | 1843 | [Suspicious Bank Accounts](https://leetcode.com/problems/suspicious-bank-accounts/) | Medium | [Codes](By_Question_Order/1843_Suspicious_Bank_Accounts.sql) |
+| 1853 | [Convert Date Format](https://leetcode.com/problems/convert-date-format/) | Easy | [Codes](By_Question_Order/1853_Convert_Date_Format.sql) |
 | 1867 | [Orders With Maximum Quantity Above Average](https://leetcode.com/problems/orders-with-maximum-quantity-above-average/) | Medium | [Codes](By_Question_Order/1867_Orders_With_Maximum_Quantity_Above_Average.sql) |
 | 1873 | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/) | Easy | [Codes](By_Question_Order/1873_Calculate_Special_Bonus.sql) |
+| 1875 | [Group Employees of the Same Salary](https://leetcode.com/problems/group-employees-of-the-same-salary/) | Medium | [Codes](By_Question_Order/1875_Group_Employees_of_the_Same_Salary.sql) |
+| 1890 | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/) | Easy | [Codes](By_Question_Order/1890_The_Latest_Login_in_2020.sql) |
+| 1907 | [Count Salary Categories](https://leetcode.com/problems/count-salary-categories/) | Easy | [Codes](By_Question_Order/1907_Count_Salary_Categories.sql) |
+
+
+| 1873 | []() | Easy | [Codes](By_Question_Order/) |
+| 1873 | []() | Easy | [Codes](By_Question_Order/) |
+
+

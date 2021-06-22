@@ -46,7 +46,7 @@ Result table:
 The employees with IDs 2 and 8 get 0 bonus because they have an even employee_id.
 The employee with ID 3 gets 0 bonus because their name starts with 'M'.
 The rest of the employees get a 100% bonus.
-
+====================================================================================================
 Select
 employee_id,
 case when 
