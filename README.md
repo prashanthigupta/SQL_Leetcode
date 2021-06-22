@@ -130,20 +130,20 @@
 | 1571 | [Warehouse Manager](https://leetcode.com/problems/warehouse-manager/)|Easy | [Codes](By_Question_Order/1571_Warehouse_Manager.sql) |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | Easy | [Codes](By_Question_Order/1581_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.sql) | 
 | 1587 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) | Easy | [Code](By_Question_Order/1587_Bank_Account_Summary_II.sql) |
-| 1596 |[The Most Frequently Ordered Products for Each Customer](https://leetcode.com/problems/the-most-frequently-ordered-products-for-each-customer/) | Medium | [Codes](By_Question_Order/1596_The_Most_Frequently_Ordered_Products_for_Each_Customer.sql) |
+| 1596 | [The Most Frequently Ordered Products for Each Customer](https://leetcode.com/problems/the-most-frequently-ordered-products-for-each-customer/) | Medium | [Codes](By_Question_Order/1596_The_Most_Frequently_Ordered_Products_for_Each_Customer.sql) |
 | 1607 | [Sellers With No Sales](https://leetcode.com/problems/sellers-with-no-sales/) | Easy | [Codes](By_Question_Order/1607_Sellers_With_No_Sales.sql) | 
 | 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/)| Easy | [Codes](By_Question_Order/1667_Fix_Names_in_a_Table.sql) |
 | 1613 | [Find the Missing IDs](https://leetcode.com/problems/find-the-missing-ids/) | Medium | [Codes](By_Question_Order/1613_Find_the_Missing_IDs.sql) | 
 | 1623 | [All Valid Triplets That Can Represent a Country](https://leetcode.com/problems/all-valid-triplets-that-can-represent-a-country/) | Easy | [Codes](By_Question_Order/1623_All_Valid_Triplets_That_Can_Represent_a_Country.sql) | 
-| 1633 |[Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/)| Easy |[Codes](By_Question_Order/1633_Percentage_of_Users_Attended_a_Contest.sql) |
-| 1635 |[Hopper Company Queries I]()| Hard |[Codes](By_Question_Order/1635_Hopper_Company_Queries_I.sql) |
-| 1645 |[Hopper Company Queries II]()| Hard |[Codes](By_Question_Order/1645_Hopper_Company_Queries_II.sql) |
-| 1651 |[Hopper Company Queries III]()| Hard |[Codes](By_Question_Order/1651_Hopper_Company_Queries_III.sql) |
-| 1661 |[Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/)| Easy |[Codes](By_Question_Order/1661_Average_Time_of_Process_per_Machine.sql)|
+| 1633 | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/)| Easy |[Codes](By_Question_Order/1633_Percentage_of_Users_Attended_a_Contest.sql) |
+| 1635 | [Hopper Company Queries I]()| Hard |[Codes](By_Question_Order/1635_Hopper_Company_Queries_I.sql) |
+| 1645 | [Hopper Company Queries II]()| Hard |[Codes](By_Question_Order/1645_Hopper_Company_Queries_II.sql) |
+| 1651 | [Hopper Company Queries III]()| Hard |[Codes](By_Question_Order/1651_Hopper_Company_Queries_III.sql) |
+| 1661 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/)| Easy |[Codes](By_Question_Order/1661_Average_Time_of_Process_per_Machine.sql)|
 | 1677 | [Product's Worth Over Invoices](https://leetcode.com/problems/products-worth-over-invoices/) | Easy | [Codes](By_Question_Order/1677_Product's_Worth_Over_Invoices.sql) | 
-| 1683 |[Invalid Tweets](https://leetcode.com/problems/invalid-tweets/)|	Easy |[Codes](By_Question_Order/1683_Invalid_Tweets.sql) |
-| 1693 |[Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/)| Easy |[Codes](By_Question_Order/1693_Daily_Leads_and_Partners.sql) |
-| 1699 |[Number of Calls Between Two Persons](https://leetcode.com/problems/number-of-calls-between-two-persons/)| Medium |[Codes](By_Question_Order/1699_Number_of_Calls_Between_Two_Persons.sql) |
+| 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/)|	Easy |[Codes](By_Question_Order/1683_Invalid_Tweets.sql) |
+| 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/)| Easy |[Codes](By_Question_Order/1693_Daily_Leads_and_Partners.sql) |
+| 1699 | [Number of Calls Between Two Persons](https://leetcode.com/problems/number-of-calls-between-two-persons/)| Medium |[Codes](By_Question_Order/1699_Number_of_Calls_Between_Two_Persons.sql) |
 | 1709 | [Biggest Window Between Visits](https://leetcode.com/problems/biggest-window-between-visits/) | Easy | [Codes](By_Question_Order/1709_Biggest_Window_Between_Visits.sql) |
 | 1715 | [Count Apples and Oranges](https://leetcode.com/problems/count-apples-and-oranges/) | Easy | [Codes](By_Question_Order/1715_Count_Apples_and_Oranges.sql) | 
 | 1729 | [Find Followers Count](https://leetcode.com/problems/find-followers-count/) | Easy | [Codes](By_Question_Order/1729_Find_Followers_Count.sql) | 
@@ -159,8 +159,8 @@
 | 1809 | [Ad-Free Sessions](https://leetcode.com/problems/ad-free-sessions/) | Easy | [Codes](By_Question_Order/ ) | 
 | 1811 | [Find Interview Candidates](https://leetcode.com/problems/find-interview-candidates/)| Medium | [Codes](By_Question_Order/1811_Find_Interview_Candidates.sql)|
 | 1821 | [Find Customers With Positive Revenue this Year](https://leetcode.com/problems/find-customers-with-positive-revenue-this-year/)| Easy | [Codes](By_Question_Order/1821_Find_Customers_With_Positive_Revenue_this_Year.sql) |
-| 1831 |[Maximum Transaction Each Day](https://leetcode.com/problems/maximum-transaction-each-day/) |Medium|[Codes](By_Question_Order/1831_Maximum_Transaction_Each_Day.sql) |
-| 1841| [League Statistics](https://leetcode.com/problems/league-statistics/) | Medium | [Codes](By_Question_Order/1841_League_Statistics.sql) |
-| 1843| [Suspicious Bank Accounts](https://leetcode.com/problems/suspicious-bank-accounts/) | Medium | [Codes](By_Question_Order/1843_Suspicious_Bank_Accounts.sql) |
+| 1831 | [Maximum Transaction Each Day](https://leetcode.com/problems/maximum-transaction-each-day/) |Medium|[Codes](By_Question_Order/1831_Maximum_Transaction_Each_Day.sql) |
+| 1841 | [League Statistics](https://leetcode.com/problems/league-statistics/) | Medium | [Codes](By_Question_Order/1841_League_Statistics.sql) |
+| 1843 | [Suspicious Bank Accounts](https://leetcode.com/problems/suspicious-bank-accounts/) | Medium | [Codes](By_Question_Order/1843_Suspicious_Bank_Accounts.sql) |
 | 1867 | [Orders With Maximum Quantity Above Average](https://leetcode.com/problems/orders-with-maximum-quantity-above-average/) | Medium | [Codes](By_Question_Order/1867_Orders_With_Maximum_Quantity_Above_Average.sql) |
-
+| 1873 | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/) | Easy | [Codes](By_Question_Order/1873_Calculate_Special_Bonus.sql) |
