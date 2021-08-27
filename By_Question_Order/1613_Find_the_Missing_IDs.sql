@@ -40,9 +40,8 @@ Result table:
 +-----+
 The maximum customer_id present in the table is 5, so in the range [1,5], IDs 2 and 3 are missing from the table.
 
-
-
 ============================================================================================
+This one below can only be used to t-sql environment
 [Parts of a RECURSIVE cte](pics/1613.png)
 
 WITH RECURSIVE seq AS (
