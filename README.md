@@ -4,4 +4,6 @@
 * [SQL by question id](SQL_Leetcode/README.md)
 * [SQL WorkShop](SQL_Workshop/README.md)
 
-## SQL Practice Questions
+## SQL Interview Questions
+
+* [Amazon](Interview_Qs/amazon.sql)
