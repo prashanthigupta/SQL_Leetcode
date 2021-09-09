@@ -21,6 +21,20 @@ Write a query to find the median of all numbers and name the result as median.
 
 ============================================================================================
 
+select
+    avg(temp.number) as median
+
+from
+
+(select number, 
+  sum(Frequency) over(order by number) as ac,
+  sum(Frequency) over(order by number desc) as dc,
+  sum(Frequency) over() as t
+from numbers ) as temp
+
+where temp.ac >=t/2 and temp.dc >=t/2
+
+
 select  avg(n.Number) as median
 from Numbers n
 where n.Frequency >= 

@@ -1,4 +1,5 @@
-
+==========================================================================================
+Amazon 分享的SQL题目
 ==========================================================================================
 Order_History table has two columns: 
 CustomerID(varchar), Purchase_Date(date). 
@@ -32,7 +33,70 @@ having count(y)=5
 2, 2013
 2, 2014
 2, 2015
+
 =========================================================================================
+Verkada SQL
+=========================================================================================
+Table 1: customers
+ID | first_name | last_name | company
+
+Table 2: touchpoints
+ID | timestamp | event_type | value | customer_id
+
+* Q1: count number of customers by length of the company name
+
+select
+    length(company) as length_of_company_name,
+    count(id) as num_of_customers
+
+from customers 
+group by length(company)
+
+
+* Q2: count cumulative number of touchpoints by date for customers with large company names.
+large: company name length>6
+
+with t1 as (
+
+select
+   timestamp,
+   count(id) as counts_of_touchpoints
+from touchpoints
+group by timestamp
+
+)
+
+select
+ t1.timestamp,
+ sum(t1.counts_of_touchpoints) over (order by t1.timestamp) as cumulative_touchpoints
+
+from t1
+
+                            Cumulative
+Monday: 10 touchpoints      10
+Tuesdays: 15                25
+Wed: 11                     36
+Thu: 1                      37
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
