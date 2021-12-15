@@ -20,6 +20,29 @@ In this table, the numbers are 0, 0, 0, 0, 0, 0, 0, 1, 2, 2, 2, 3, so the median
 Write a query to find the median of all numbers and name the result as median.
 
 ============================================================================================
+# 根据定义直接来
+select
+   case when count(salary) % 2 =0 then count(salary) /2
+        else (count(salary) + 1 )/2
+   end as median_index_1,
+
+   case when count(salary) % 2 =0 then count(salary) /2 + 1
+        else (count(salary) + 1 )/2
+   end as median_index_2
+from tb
+
+t1 as (
+select
+   *,
+   rank() over (order by salary) as r
+from tb 
+)
+
+select
+  avg(t1.salary)
+from t1
+where r between median_index_1 and median_index_2
+
 
 # Median选判条件
 select
